@@ -311,7 +311,7 @@ learned about Junit, what might we do to improve the efficiency of our testing s
 
 5. Add and commit your work, then push to your branch on GitHub.
 
-And you're done with Phase 1!
+And you're done with Phase 1!!
 
 We encourage you to continue to explore the code and consider
 trying some of the extra practice listed below in preparation for your project coding.
